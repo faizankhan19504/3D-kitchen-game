@@ -7,7 +7,6 @@
 <img width="1019" height="569" alt="Screenshot 2025-07-31 002618" src="https://github.com/user-attachments/assets/2dd455bc-166f-4a81-8bac-462b5aca540a" />
 
 
-
 ---
 
 ### 🚀 **Features**
@@ -30,7 +29,7 @@
 
 ### 🛠️ **Tech Stack**
 
-- **Engine:** Unity (Recommended version: **Unity 2022.3.62f1**)  
+- **Engine:** Unity (Recommended version: **Unity 2022.3.62f1 LTS**)  
 - **Language:** C#  
 - **Assets:** CodeMonkey free assets and prefabs  
 - **IDE:** Visual Studio / Rider  
@@ -62,13 +61,14 @@ KitchenChaos/
 
 ### 📥 **Installation & Setup**
 + 1. **Clone or Download this repository:**
-
+   ```bash
      https://github.com/faizankhan177854/faizankhan177854.git
      
-2. **Open the project in Unity Hub (Recommended: Unity 2021.3 LTS or newer).**
+2. **Open the project in Unity Hub (Recommended: Unity 2022.3.62f1 LTS or newer).**
 
 3. **Open the MainMenu scene:**
-      +  Assets/Scenes/MainMenuScene
+   
+      +    Assets/Scenes/MainMenuScene
 
 4. **Press Play to start the game.**
 

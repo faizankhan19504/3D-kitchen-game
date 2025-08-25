@@ -30,7 +30,7 @@
 
 ### 🛠️ **Tech Stack**
 
-- **Engine:** Unity (Recommended version: **Unity 2021.3 LTS or later**)  
+- **Engine:** Unity (Recommended version: **Unity 2022.3.62f1**)  
 - **Language:** C#  
 - **Assets:** CodeMonkey free assets and prefabs  
 - **IDE:** Visual Studio / Rider  
@@ -56,17 +56,21 @@ KitchenChaos/
 
 ### 🕹️ **Controls**
 +  Move Player : W / A / S / D or Arrow Keys
-+  Interact / Pick up : E
-+  Drop / Place item : Space
++  Alt Interact : F
++  Drop / Place item : E
 +  Pause Game : Esc
 
 ### 📥 **Installation & Setup**
-+ Clone or Download this repository:
-    + git clone https://github.com/faizankhan177854/faizankhan177854.git
-+ Open the project in Unity Hub (Recommended: Unity 2021.3 LTS or newer).
-+  Open the main scene:
-      +  Assets/Scenes/KitchenChaos.unity
-Press Play to start the game.
++ 1. **Clone or Download this repository:**
+
+     https://github.com/faizankhan177854/faizankhan177854.git
+     
+2. **Open the project in Unity Hub (Recommended: Unity 2021.3 LTS or newer).**
+
+3. **Open the MainMenu scene:**
+      +  Assets/Scenes/MainMenuScene
+
+4. **Press Play to start the game.**
 
 ### 🧠 **Learning Objectives**
 + This project covers:
@@ -76,7 +80,7 @@ Press Play to start the game.
     + UI management
     + Physics and collision detection
     + Scene management
-    + Basic game architecture for 2D games
+    + Basic game architecture for Top-down game
 
       
 
